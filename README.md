@@ -1,91 +1,85 @@
+<!-- BANNER DINÂMICO DE TOPO -->
 <div align="center">
-  <!-- Imagem Hero 3D (Substituível por qualquer GIF 3D de sua preferência) -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="3D Tech Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Renato%20Machado&fontSize=60&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Fullstack%20Júnior%20%7C%20Startup%20Founder&descAlignY=55&descAlign=50&theme=dracula" width="100%" />
+</div>
 
-  <h1>Renato Machado</h1>
-  <h3>Desenvolvedor Fullstack Júnior & Fundador</h3>
+<!-- ANIMAÇÃO 3D E INTRODUÇÃO -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="120" style="border-radius: 50%; margin-top: -50px; border: 4px solid #1E1E2E;" alt="Tech Core 3D" />
   
-  <p>
-    <i>"Arquitetando soluções tecnológicas: do conceito ao código."</i>
-  </p>
-
-  <br>
-</div>
-
----
-
-<div align="center">
-  <h2>💡 Visão & Produto</h2>
-  <p align="center" style="max-width: 600px; margin: auto;">
-    Minha trajetória na tecnologia é impulsionada pela criação de soluções no mundo real. Trago a vivência de ter fundado uma startup de inovação voltada para a logística aérea (entregas via drones) e aplico essa mentalidade empreendedora diretamente no meu código. Meu foco atual é atuar no desenvolvimento fullstack, criando plataformas escaláveis, integrando APIs complexas e explorando o potencial da Inteligência Artificial, sempre focado na construção da tecnologia, sem atalhos.
+  <h2>"Transformando lógica complexa em produtos viáveis."</h2>
+  
+  <p align="center" style="max-width: 700px;">
+    Engenheiro de Software em formação com mindset de fundador. Minha base vem da criação de soluções do zero (como a fundação da startup de logística TendyAaZ), mas meu verdadeiro foco é a <b>execução técnica</b>. Construo aplicações Fullstack ágeis, integro ferramentas de IA (como no Projeto Sentinela) e desenvolvo ecossistemas escaláveis. Sem atalhos: apenas código limpo, arquitetura sólida e foco no produto.
   </p>
 </div>
 
-<br>
+<br><br>
 
----
-
+<!-- TERMINAL INTERATIVO (Clique para abrir) -->
 <div align="center">
-  <h2>🛠️ Arquitetura & Stack Tecnológico</h2>
-  <p>Ferramentas que utilizo para transformar ideias em produtos viáveis:</p>
+  <details>
+    <summary><b>💻 <code>/root/renato/executar_perfil.sh</code> (Clique para expandir)</b></summary>
+    <br>
+    <code>[OK] Carregando interesses: Inteligência Artificial, Automação, OSINT, Computação Quântica.</code><br>
+    <code>[OK] Carregando hobbies: Trilhas & Churrasco no RS.</code><br>
+    <code>[OK] Status: Compilando o futuro...</code>
+  </details>
+</div>
 
-  <br>
+<br><br>
 
+<!-- STACK TECNOLÓGICO -->
+<div align="center">
+  <h2>⚡ Stack de Arquitetura</h2>
+  <p>Ferramentas de combate diário para desenvolvimento Frontend e Backend:</p>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <br><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-<br>
+<br><br>
 
----
-
+<!-- ESTATÍSTICAS EM TEMPO REAL -->
 <div align="center">
-  <h2>🛡️ Ecossistema de Projetos</h2>
+  <h2>📊 Telemetria de Código</h2>
+  <p>Análise em tempo real dos meus repositórios e contribuições:</p>
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Renato666Jk&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato666Jk&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🚨 Projeto Sentinela</h3>
-      <p><b>IA e Governança na Segurança Pública</b></p>
-      <p>Plataforma para monitoramento e prevenção de violência doméstica, atuando como um observador ativo 24/7 com envio ágil de alertas para redes de confiança.</p>
-      <i>React | TypeScript | IA</i>
-    </td>
-    <td width="50%" align="center">
-      <h3>📦 Vapt.AI</h3>
-      <p><b>Logística Inteligente</b></p>
-      <p>Sistema guiado por inteligência artificial que utiliza visão computacional via smartphone para escanear, categorizar produtos e sugerir precificações no inventário.</p>
-      <i>Computer Vision | API Integration</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📡 Wi-Fi Analyzer Pro</h3>
-      <p><b>Auditoria de Redes & OSINT</b></p>
-      <p>Ferramenta de rede para identificar vulnerabilidades de protocolo, projetada com visualização de radar tático.</p>
-      <i>Cybersecurity | Network Mapping</i>
-    </td>
-    <td width="50%" align="center">
-      <h3>🏢 Condo Connect Hub</h3>
-      <p><b>Gestão de Condomínios</b></p>
-      <p>Sistema completo para controle de acesso e reserva de recursos internos.</p>
-      <i>React | Tailwind CSS</i>
-    </td>
-  </tr>
-</table>
+<br><br>
 
-<br>
+<!-- VITRINE DE PROJETOS -->
+<div align="center">
+  <h2>🛡️ Ecossistema de Soluções</h2>
+</div>
 
----
+> **[Projeto Sentinela](https://github.com/Renato666Jk/projeto-sentinela)**
+> Sistema de governança em segurança pública usando IA para proteção de grupos vulneráveis (MVP focado em alertas para redes de confiança). Construído com React e TypeScript.
 
+> **Vapt.AI**
+> Sistema de logística e inventário utilizando Visão Computacional de smartphones para escanear, categorizar e precificar produtos dinamicamente.
+
+> **Wi-Fi Analyzer Pro**
+> Ferramenta de auditoria de redes (OSINT) com visualização tática estilo sonar, focada em identificar vulnerabilidades de protocolo.
+
+> **Condo Connect Hub**
+> Aplicação de gestão condominial para controle de acesso e reserva de recursos, estilizada com Tailwind CSS.
+
+<br><br>
+
+<!-- CONEXÕES E RODAPÉ -->
 <div align="center">
   <h2>🌐 Conexões de Rede</h2>
-  <p>Aberto a parcerias técnicas, desenvolvimento de MVPs e inovação em engenharia de software.</p>
+  <p>Sempre aberto a discutir código, arquitetura de sistemas e novas tecnologias.</p>
   
   <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -95,9 +89,7 @@
   </a>
 </div>
 
-<br>
-
-<!-- Linha de fecho 3D animada -->
+<!-- Linha Neon de Encerramento -->
 <div align="center">
-  <img src="https://media.giphy.com/media/XGk2OQ2K1vO4D2b2yY/giphy.gif" width="100%" height="20px" alt="Line animation" />
+  <img src="https://raw.githubusercontent.com/mocaBroco/mocaBroco/main/assets/line-neon.gif" width="100%" alt="Neon Line">
 </div>
