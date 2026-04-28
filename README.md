@@ -1,95 +1,106 @@
 <div align="center">
 
-<!-- EFEITO DE TYPING CIBERNÉTICO -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=RACC+DYNAMICS+SYSTEMS;CHIEF+EXECUTIVE+ENGINEER;INITIATING_SENTINELA_PROTOCOL" alt="Typing SVG" />
+<!-- BANNER DE ALTO IMPACTO -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=RENATO%20MACHADO&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CHIEF%20EXECUTIVE%20ENGINEER%20|%20RACC%20DYNAMICS&descAlignY=55&descAlign=50" width="100%" />
 
 <br>
 
-<!-- ANIMAÇÃO 3D IMPACTANTE (REPRESENTANDO O NÚCLEO DA RACC DYNAMICS) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXByZ3F4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxV4P8J7o1W/giphy.gif" width="300" alt="3D Core Animation" />
+<!-- ELEMENTO 3D CENTRAL (REPRESENTANDO O PROJETO SENTINELA) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndXByZ3F4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV3VfW/giphy.gif" width="250" alt="3D Tactical Scan" />
 
 <br>
 
-<!-- STATUS BAR DE FUNDADOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=FOUNDER:_TENDYAAZ_(2021-2023)____CURRENT:_CEO_AT_RACC_DYNAMICS____PROJECT:_SENTINELA&fontSize=16&fontColor=00F0FF&fontAlignY=50" width="100%" />
+<!-- SUBTÍTULO ANIMADO -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=LIDERANDO_RACC_DYNAMICS;EXECUTANDO_PROJETO_SENTINELA;FOUNDER_TENDYAAZ_(2021-2023)" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 🛡️ Registro de Comando: Renato Machado
-**Fundador & Engenheiro de Software Fullstack**
+## 📡 Protocolo de Liderança & Engenharia
 
-> "A tecnologia é a extensão da vontade humana. Na Racc Dynamics, codificamos proteção e eficiência."
-
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="60%" valign="top">
-      <h3>📡 _HISTÓRICO_FOUNDER</h3>
+    <td width="60%" valign="top" style="border: none;">
+      <h3>🚀 Visão Executiva</h3>
       <p>
-        Ex-fundador da <b>TendyAaZ</b> (2021-2023), onde liderei a inovação em logística aérea e drones para áreas rurais. Essa bagagem estratégica hoje foca 100% na execução técnica da <b>Racc Dynamics</b>.
+        Com uma trajetória consolidada no ecossistema de inovação, fui o fundador da <b>TendyAaZ</b> (2021-2023), startup focada em logística aérea e drones. Atualmente, lidero a <b>Racc Dynamics</b>, onde projeto e executo soluções de alto nível técnico, como o <b>Projeto Sentinela</b>.
       </p>
-      <h3>🧠 _MISSIO_CRITICAL: PROJETO SENTINELA</h3>
       <p>
-        Atualmente à frente do <b>Projeto Sentinela</b>, desenvolvendo uma plataforma de governança assistida por IA para identificar padrões de risco e proteger grupos vulneráveis com monitoramento tático 24/7.
+        Sou um <b>Desenvolvedor Fullstack Júnior</b> focado na construção de produtos escaláveis e seguros. Unindo minha formação em Engenharia de Software com a experiência de quem já construiu negócios do zero, entrego código que resolve problemas de mercado.
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=py,ts,js,react,tailwind,mysql,sqlite,git,github,vscode,postman,docker&perline=3" alt="Tactical Stack" />
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=py,ts,js,react,tailwind,mysql,sqlite,git,github,vscode,postman,docker&perline=3" alt="Arsenal Técnico" />
       <br>
-      <code>[ TACTICAL_STACK_AUTHORIZED ]</code>
+      <code>[ ARSENAL_DE_ENGENHARIA ]</code>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 🛠️ Ecossistema de Engenharia Racc Dynamics
-
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>🛡️ PROJETO SENTINELA</h3>
-      <p>IA avançada para segurança pública e defesa doméstica. MVP focado em alertas de alta velocidade.</p>
-      <code>STATUS: ACTIVE_OPERATION</code>
-    </td>
-    <td align="left" width="50%">
-      <h3>📈 METAS DE SONHOS</h3>
-      <p>Algoritmos de projeção temporal para mensurar o caminho exato para conquistas de alto valor (Travel/Tech/Assets).</p>
-      <code>STATUS: DATA_PROCESSING</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">
-      <h3>📦 VAPT.AI</h3>
-      <p>Logística inteligente com visão computacional para inventário e precificação dinâmica via hardware móvel.</p>
-      <code>STATUS: ALPHA_STAGING</code>
-    </td>
-    <td align="left" width="50%">
-      <h3>📡 WI-FI ANALYZER PRO</h3>
-      <p>Auditoria de redes e OSINT com visualização sonar para mitigação de riscos em protocolos críticos.</p>
-      <code>STATUS: SECURE</code>
-    </td>
-  </tr>
-</table>
-
-<br>
+## 🛡️ Racc Dynamics: Portfólio Estratégico
 
 <div align="center">
-  <h2>📊 Monitoramento de Contribuições</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato666Jk&theme=tokyonight&area=true&hide_border=true&custom_title=RACC_DYNAMICS_DEVELOPMENT_FLOW" width="100%" />
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <h3>🚨 Projeto Sentinela</h3>
+        <p>Sistema de governança e inteligência artificial focado em segurança pública e proteção de grupos vulneráveis.</p>
+        <code>React | TypeScript | IA</code>
+      </td>
+      <td align="left">
+        <h3>📦 Vapt.AI</h3>
+        <p>Logística inteligente com visão computacional para escanear e precificar inventários via smartphone.</p>
+        <code>Computer Vision | Python</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <h3>📈 Metas de Sonhos</h3>
+        <p>Algoritmos de projeção para auxiliar usuários a calcularem o tempo de conquista de metas reais.</p>
+        <code>Data Engineering | TypeScript</code>
+      </td>
+      <td align="left">
+        <h3>📡 Wi-Fi Analyzer Pro</h3>
+        <p>Auditoria de redes com visualização tática estilo sonar para identificação de vulnerabilidades.</p>
+        <code>Cybersecurity | OSINT</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📊 Telemetria de Produção (Porto Alegre, RS)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renato666Jk&theme=tokyonight" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <h2>🛰️ Estabelecer Conexão</h2>
-  <a href="https://linkedin.com/in/renato-machado-dev/">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Renato666Jk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato666Jk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<br>
+
+## 🛰️ Establish Connection
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/renato-machado-dev/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/SECURE_CHANNEL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:seuemail@provedor.com">
+    <img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/mocaBroco/mocaBroco/main/assets/line-neon.gif" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mocaBroco/mocaBroco/main/assets/line-neon.gif" width="100%" alt="System End">
 </div>
