@@ -1,106 +1,91 @@
 <div align="center">
 
-<!-- BANNER DE ALTO IMPACTO -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=RENATO%20MACHADO&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CHIEF%20EXECUTIVE%20ENGINEER%20|%20RACC%20DYNAMICS&descAlignY=55&descAlign=50" width="100%" />
+<!-- HEADER COM GRADIENTE DINÂMICO E ANIMAÇÃO -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=280&section=header&text=RACC%20DYNAMICS&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CHIEF%20EXECUTIVE%20ENGINEER%20|%20RENATO%20MACHADO&descAlignY=55&descAlign=50&theme=cyberpunk" width="100%" />
 
 <br>
 
-<!-- ELEMENTO 3D CENTRAL (REPRESENTANDO O PROJETO SENTINELA) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndXByZ3F4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV3VfW/giphy.gif" width="250" alt="3D Tactical Scan" />
+<!-- NAVEGAÇÃO DINÂMICA (BOTÕES ESTILIZADOS) -->
+<p align="center">
+  <a href="#vision">
+    <img src="https://img.shields.io/badge/-VISÃO_ESTRATÉGICA-00F0FF?style=for-the-badge&logo=target&logoColor=black" />
+  </a>
+  <a href="#stack">
+    <img src="https://img.shields.io/badge/-ARSENAL_TÉCNICO-FF00FF?style=for-the-badge&logo=cpu&logoColor=white" />
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/-SISTEMAS_ATIVOS-00FF00?style=for-the-badge&logo=terminal&logoColor=black" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/-ESTABELECER_CONTATO-FFD700?style=for-the-badge&logo=rss&logoColor=black" />
+  </a>
+</p>
 
 <br>
 
-<!-- SUBTÍTULO ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=LIDERANDO_RACC_DYNAMICS;EXECUTANDO_PROJETO_SENTINELA;FOUNDER_TENDYAAZ_(2021-2023)" alt="Typing SVG" />
+<!-- ANIMAÇÃO 3D IMPACTANTE (NÚCLEO DE OPERAÇÕES) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5M2JyeXByZ3F4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxV4P8J7o1W/giphy.gif" width="350" alt="3D Tactical Hub" />
+
+<br>
+
+<!-- TERMINAL DE STATUS EM CORES -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=EXECUTANDO_PROTOCOLO_SENTINELA;FOUNDER_TENDYAAZ_LEGACY;FULLSTACK_ENGINEERING_INITIATED" alt="Typing SVG" />
 
 </div>
 
-<br>
+<br id="vision">
 
-## 📡 Protocolo de Liderança & Engenharia
+## 📡 Perfil de Liderança: Renato Machado
+**Engenheiro de Software & Fundador**
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
-      <h3>🚀 Visão Executiva</h3>
-      <p>
-        Com uma trajetória consolidada no ecossistema de inovação, fui o fundador da <b>TendyAaZ</b> (2021-2023), startup focada em logística aérea e drones. Atualmente, lidero a <b>Racc Dynamics</b>, onde projeto e executo soluções de alto nível técnico, como o <b>Projeto Sentinela</b>.
-      </p>
-      <p>
-        Sou um <b>Desenvolvedor Fullstack Júnior</b> focado na construção de produtos escaláveis e seguros. Unindo minha formação em Engenharia de Software com a experiência de quem já construiu negócios do zero, entrego código que resolve problemas de mercado.
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=py,ts,js,react,tailwind,mysql,sqlite,git,github,vscode,postman,docker&perline=3" alt="Arsenal Técnico" />
-      <br>
-      <code>[ ARSENAL_DE_ENGENHARIA ]</code>
-    </td>
-  </tr>
-</table>
+> "Arquitetando o amanhã através de código resiliente e visão de mercado."
 
-<br>
+*   **Fundador da TendyAaZ (2021-2023):** Liderança em inovação logística e drones para áreas rurais.
+*   **CEO na Racc Dynamics:** À frente do desenvolvimento do **Projeto Sentinela**, uma IA tática para segurança pública e governança.
+*   **Foco Técnico:** Desenvolvimento Fullstack focado em produtos escaláveis e automação industrial.
 
-## 🛡️ Racc Dynamics: Portfólio Estratégico
+<br id="stack">
+
+## 🛠️ Arsenal de Engenharia (Fullstack)
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="left">
-        <h3>🚨 Projeto Sentinela</h3>
-        <p>Sistema de governança e inteligência artificial focado em segurança pública e proteção de grupos vulneráveis.</p>
-        <code>React | TypeScript | IA</code>
-      </td>
-      <td align="left">
-        <h3>📦 Vapt.AI</h3>
-        <p>Logística inteligente com visão computacional para escanear e precificar inventários via smartphone.</p>
-        <code>Computer Vision | Python</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <h3>📈 Metas de Sonhos</h3>
-        <p>Algoritmos de projeção para auxiliar usuários a calcularem o tempo de conquista de metas reais.</p>
-        <code>Data Engineering | TypeScript</code>
-      </td>
-      <td align="left">
-        <h3>📡 Wi-Fi Analyzer Pro</h3>
-        <p>Auditoria de redes com visualização tática estilo sonar para identificação de vulnerabilidades.</p>
-        <code>Cybersecurity | OSINT</code>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,tailwind,mysql,sqlite,git,github,vscode,postman,docker&perline=6" />
+  <br>
+  <img src="https://img.shields.io/badge/Status-Sistemas_Operacionais-00FF00?style=flat-square" />
 </div>
 
+<br id="projects">
+
+## 🛡️ Ecossistema Racc Dynamics (Sistemas Ativos)
+
+| PROJETO | DESCRIÇÃO TÁTICA | STACK |
+| :--- | :--- | :--- |
+| **Sentinela** | IA para monitoramento e prevenção de violência doméstica. | `React` `TS` `AI` |
+| **Vapt.AI** | Visão computacional para logística e inventário dinâmico. | `Python` `APIs` |
+| **Metas de Sonhos** | Algoritmos de projeção temporal para metas de vida. | `TypeScript` `Data` |
+| **Wi-Fi Analyzer** | Auditoria de redes com visualização sonar e OSINT. | `Cybersecurity` |
+
 <br>
 
-## 📊 Telemetria de Produção (Porto Alegre, RS)
+## 📊 Telemetria de Atividade (Porto Alegre, RS)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renato666Jk&theme=tokyonight" width="100%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Renato666Jk&show_icons=true&theme=cyberpunk&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato666Jk&layout=compact&theme=cyberpunk&hide_border=true" />
 </div>
 
-<br>
+<br id="contact">
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Renato666Jk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato666Jk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<br>
-
-## 🛰️ Establish Connection
-
-<div align="center">
+  <h2>🛰️ Conexão de Rede</h2>
+  
   <a href="https://www.linkedin.com/in/renato-machado-dev/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@provedor.com">
-    <img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:renato@raccdynamics.com">
+    <img src="https://img.shields.io/badge/EMAIL_SEGURO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mocaBroco/mocaBroco/main/assets/line-neon.gif" width="100%" alt="System End">
+  
+  <br><br>
+  <img src="https://raw.githubusercontent.com/mocaBroco/mocaBroco/main/assets/line-neon.gif" width="100%">
 </div>
