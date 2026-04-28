@@ -1,34 +1,17 @@
-# Olá, eu sou o Renato Machado! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Renato;Engenheiro+de+Software+em+Formação;Codificando+o+Futuro...;Acessando+Sistema..." alt="Typing SVG" />
+</h1>
 
-### 👨‍💻 Engenheiro de Software em Formação
-Focado em construir soluções eficientes e apaixonado por tecnologia e automação.
-
----
-
-### 🛠️ Minhas Tecnologias (Stack)
-
-**Linguagens**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Banco de Dados**
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato666Jk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato666Jk&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&animation=fadeIn&fontAlignY=35&theme=dracula" alt="Header Banner" />
 </p>
 
----
+## 📡 Protocolo de Identificação: `Renato Machado`
 
-### 📫 Contato:
-* 💼 [LinkedIn](https://www.linkedin.com/in/renato-machado-dev/)
-* 📧 [Email](mailto:seu-email@exemplo.com)
+```javascript
+const renato = {
+  status: "Em constante compilação...",
+  objetivo: "Transformar café e lógica em sistemas escaláveis",
+  foco Atual: ["Desenvolvimento Fullstack", "Otimização de Performance"],
+  paixões: ["IA aplicada", "Clean Code", "Desafios Lógicos"]
+};
